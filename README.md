@@ -1,6 +1,8 @@
 # Hi there, I'm Soumen Mandal! 👋
 
 <div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBibTFkdWFmZWt6dWs4anQ4cWR0NGhubjhpZWxhZm9waGpkNmQ1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DWaWnqZ5HZVvO/giphy.gif" width="200"/>
+  <h2>Welcome to My GitHub Sanctuary!</i></h2>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Tech+Explorer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
