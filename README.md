@@ -52,5 +52,9 @@ You can find me on:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumen1080&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages used by Soumen1080" title="Hover: Most-used languages | Click: Browse repositories" />
   </a>
 </div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Soumen1080&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumen1080&theme=tokyo-night&hide_border=true&area=true" />
+</div>
 
 ---
